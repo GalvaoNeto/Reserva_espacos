@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650138842464",
+    "project_id": "reserva-espacos",
+    "storage_bucket": "reserva-espacos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650138842464:android:38630fef2b44d625aa5a05",
+        "android_client_info": {
+          "package_name": "com.example.reserva_espacos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5H124bT7VTvWrSoNM6Ex1m0JQVIMI9gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
